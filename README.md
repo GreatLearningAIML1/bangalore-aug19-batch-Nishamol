@@ -5,3 +5,7 @@ Lab1 Exercise is completed and uploaded
 
 22/09/2019: 
 External Lab Published on Hypothesis Testing
+
+13/10/2019:
+External Lab Completed and Published on Logistic Regression on student dataset and 
+Naive Baiyes on Iris Dataset.
