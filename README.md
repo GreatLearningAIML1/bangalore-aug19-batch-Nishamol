@@ -9,3 +9,9 @@ External Lab Published on Hypothesis Testing
 13/10/2019:
 External Lab Completed and Published on Logistic Regression on student dataset and 
 Naive Baiyes on Iris Dataset.
+
+
+30/10/2019:
+
+Project 2:  Initial draft on predicting customer taking personal loan in the bank.
+            Usage of Logistic Regression, KNN, Naive Bayes 
