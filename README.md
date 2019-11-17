@@ -15,3 +15,8 @@ Naive Baiyes on Iris Dataset.
 
 Project 2:  Initial draft on predicting customer taking personal loan in the bank.
             Usage of Logistic Regression, KNN, Naive Bayes 
+
+17/11/2019"
+
+External Lab : Decision Tree, Random Forest and Kfold Cross Validation models.
+      - Completed and Published
