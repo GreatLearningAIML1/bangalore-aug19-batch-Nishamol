@@ -20,3 +20,9 @@ Project 2:  Initial draft on predicting customer taking personal loan in the ban
 
 External Lab : Decision Tree, Random Forest and Kfold Cross Validation models.
       - Completed and Published
+
+08/12/2019: 
+
+1. StatisticalLearning_Project2:
+        EDA, statistics and hypothesis testing using python. 
+
