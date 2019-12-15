@@ -28,3 +28,9 @@ External Lab : Decision Tree, Random Forest and Kfold Cross Validation models.
 
 2.Ensemble_Residency4_Project1.ipynb
        EDA, Decision Tree and Random Forest using python.
+
+15/12/2019:
+
+Internal Lab: Exploring PCA and Recommendation Overview.
+              - Finding Covariance, Eigen Vectors and values and Sklearn PCA usage.
+              - Simple popularity based Recommendataion system. 
