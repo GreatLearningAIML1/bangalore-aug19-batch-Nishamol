@@ -35,3 +35,10 @@ External Lab : Decision Tree, Random Forest and Kfold Cross Validation models.
 Internal Lab: Exploring PCA and Recommendation Overview.
               - Finding Covariance, Eigen Vectors and values and Sklearn PCA usage.
               - Simple popularity based Recommendataion system. 
+
+05/01/2020:
+
+Unsupervised Learning Project on  Bankruptcy: 
+         > Given Internal risk as feature which is in categorical in nature. 
+         > Perform PCA, Elbow, Kmeans, SVC on the dataset
+         > Finding accuracy and confusion matrix.
