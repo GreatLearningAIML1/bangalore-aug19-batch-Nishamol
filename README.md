@@ -42,3 +42,9 @@ Unsupervised Learning Project on  Bankruptcy:
          > Given Internal risk as feature which is in categorical in nature. 
          > Perform PCA, Elbow, Kmeans, SVC on the dataset
          > Finding accuracy and confusion matrix.
+         
+26/01/2020:
+
+Neural Network Lab on Iris and Prices:
+         > Used TF2.0 with keras
+         > Using Functions and without using functions. 
