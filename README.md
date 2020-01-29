@@ -48,3 +48,10 @@ Unsupervised Learning Project on  Bankruptcy:
 Neural Network Lab on Iris and Prices:
          > Used TF2.0 with keras
          > Using Functions and without using functions. 
+
+29/10/2020:
+
+Project on Recommendation System: 
+       - Used Popularity and collaborative filtering on electronic products.
+       - External surprise library is used for achieving the same. 
+       - RMSE and crossvalidation is performed. 
