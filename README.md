@@ -61,3 +61,9 @@ Project on Recommendation System:
 Internal Lab on Fashion and CIFAR dataset:
       - Used CNN with Fully Connected Layer and Augmentation on Fashion dataset
       - Used Augmentation on CIFAR.
+      
+12/03/2020:
+
+Project 2 on Deep Neural Network:
+     - Used DNN with SGD and Adagrad optimizer. 
+     - Updated metrics report.
