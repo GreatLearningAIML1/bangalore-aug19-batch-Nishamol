@@ -67,3 +67,12 @@ Internal Lab on Fashion and CIFAR dataset:
 Project 2 on Deep Neural Network:
      - Used DNN with SGD and Adagrad optimizer. 
      - Updated metrics report.
+
+15/03/2020: 
+
+Internal Lab on Statistical NLP:
+   Performed sentiment analysis of user on mobile devices.
+  - Dataset : tweets.csv 
+  - Count Vectorizer, Logistic Regression, Gaussian, Mutinomial and Complement Naive Bayes
+  - Tuned hyperparameters like ngrams, min_df and max_features to get better accuracy.
+   - CountVectorizer, 
