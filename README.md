@@ -13,7 +13,7 @@ Naive Baiyes on Iris Dataset.
 
 30/10/2019:
 
-Project 2:  SVHN Dataset 
+Project 2:  
             Initial draft on predicting customer taking personal loan in the bank.
             Usage of Logistic Regression, KNN, Naive Bayes 
 
@@ -65,7 +65,7 @@ Internal Lab on Fashion and CIFAR dataset:
       
 12/03/2020:
 
-Project 2 on Deep Neural Network:
+Project 2 on Deep Neural Network on SVHN Dataset:
      - Used DNN with SGD and Adagrad optimizer. 
      - Updated metrics report.
 
