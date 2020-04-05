@@ -77,3 +77,11 @@ Internal Lab on Statistical NLP:
   - Count Vectorizer, Logistic Regression, Gaussian, Mutinomial and Complement Naive Bayes
   - Tuned hyperparameters like ngrams, min_df and max_features to get better accuracy.
    - CountVectorizer, 
+
+05/04/2020 : 
+
+R8_Proj8_StatisticalNLP_BlogsAuthorshipCorpus
+Used Count Vectorizer, Logistic Regression followed by Multi Label Binarizer 
+Used Classification Report, F1Score, Weighted Precision Score and Recall Score
+Used Inverse Mulitlabel Binarizer to convert back to original form
+Note: Used only 15000 records due to memory constraint
