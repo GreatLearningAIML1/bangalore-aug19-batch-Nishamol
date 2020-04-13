@@ -85,3 +85,9 @@ Used Count Vectorizer, Logistic Regression followed by Multi Label Binarizer
 Used Classification Report, F1Score, Weighted Precision Score and Recall Score
 Used Inverse Mulitlabel Binarizer to convert back to original form
 Note: Used only 15000 records due to memory constraint
+
+
+13/Apr/2020:
+
+CV_Project2_Dog_Breed_Classification_Questions.ipynb
+
