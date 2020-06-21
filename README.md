@@ -91,3 +91,11 @@ Note: Used only 15000 records due to memory constraint
 
 CV_Project2_Dog_Breed_Classification_Questions.ipynb
 
+21/Jun/2020: 
+Sequence Model in NLP_R10_Project2_Sarcasm Detection.ipynb
+
+- Used bidirectional LSTM and NN for detecting Sarcasm. 
+- Used Validation split ratio instead of direct split. 
+
+
+
