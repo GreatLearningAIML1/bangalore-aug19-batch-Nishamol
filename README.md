@@ -96,6 +96,7 @@ Sequence Model in NLP_R10_Project2_Sarcasm Detection.ipynb
 
 - Used bidirectional LSTM and NN for detecting Sarcasm. 
 - Used Validation split ratio instead of direct split. 
+- Updated with version : Sequence Model in NLP_R10_Project2_Sarcasm Detectionv1.0.ipynb
 
 
 
