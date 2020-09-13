@@ -99,4 +99,10 @@ Sequence Model in NLP_R10_Project2_Sarcasm Detection.ipynb
 - Updated with version : Sequence Model in NLP_R10_Project2_Sarcasm Detectionv1.0.ipynb
 
 
+13/Sep/2020:
+
+Internal Lab: Advanced Computer Vision on Object Localization
+
+- Used Mobile Net to find the coordinates for the raccoon class type.  
+- Used csv reader to read from the file. 
 
