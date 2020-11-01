@@ -106,3 +106,11 @@ Internal Lab: Advanced Computer Vision on Object Localization
 - Used Mobile Net to find the coordinates for the raccoon class type.  
 - Used csv reader to read from the file. 
 
+01/Nov/2020: Questions_Notebook_ACV
+
+Face Recognition on Aligned Face Dataset from Pinterest.
+1. Used PCA, SVC.
+2. Obtained score : 97%
+3. Able to correctly identify a face. 
+
+
